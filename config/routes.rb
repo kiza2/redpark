@@ -29,7 +29,7 @@ Redpark::Application.routes.draw do
   #   resources :products do
   #     resources :comments, :sales
   #     resource :seller
-  #   end
+  #   end 
 
   # Sample resource route with more complex sub-resources
   #   resources :products do
